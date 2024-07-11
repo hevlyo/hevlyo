@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riquelme Soares</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate System analyst/Backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hevlyo&label=Profile%20views&color=0e75b6&style=flat" alt="hevlyo" /> </p>
 
-- 🔭 I’m currently working on **IncubaTech**
+- 🔭 I’m currently working on **Vicunha Textil**
 
-- 🌱 I’m currently learning **Java, Grails, Springboot**
+- 🌱 I’m currently learning **Java, Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
