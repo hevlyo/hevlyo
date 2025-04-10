@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riquelme Soares</h1>
-<h3 align="center">A passionate System analyst/Backend developer from Brazil</h3>
+<h3 align="center">A passionate Backend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hevlyo&label=Profile%20views&color=0e75b6&style=flat" alt="hevlyo" /> </p>
 
