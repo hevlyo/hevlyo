@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Riquelme Soares</h1>
-<h3 align="center">A passionate Backend developer from Brazil</h3>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hevlyo&label=Profile%20views&color=0e75b6&style=flat" alt="hevlyo" /> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **STI**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Springboot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riquelme-soares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riquelme-soares" height="30" width="40" /></a>
-<a href="https://instagram.com/riquelmepsoares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riquelmepsoares" height="30" width="40" /></a>
-<a href="https://discord.gg/vv5Jqa593y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vv5Jqa593y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
