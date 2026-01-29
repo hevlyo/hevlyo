@@ -4,8 +4,8 @@
 ---
 
 ### About
-Full-stack developer focused on building scalable web systems, APIs, and process automation solutions.  
-Experience with backend architecture, performance-oriented systems, and real-world platforms.
+Full-stack developer focused on scalable web systems, backend architecture, and automation solutions.  
+Experience with performance-oriented systems and real-world government systems.
 
 Currently developing systems for **PGM – Procuradoria Geral do Município de Natal**.
 
@@ -17,17 +17,16 @@ Currently developing systems for **PGM – Procuradoria Geral do Município de N
 Next.js • React • TypeScript • Tailwind CSS
 
 **Backend**  
-Python (FastAPI) • Java (Spring Boot) • Node.js
+Node.js (Express) • Python (FastAPI) • Java (Spring Boot)
 
 **Databases & Caching**  
-PostgreSQL • Redis • Oracle • SQL Server
+PostgreSQL • Oracle • SQL Server • Redis
 
 **Architecture & Infrastructure**  
 Docker • Linux • Nginx • CI/CD • Cloudflare Tunnel
 
-**Practices & Tools**  
-REST APIs • Git • Agile Methods
-
+**Engineering Focus**  
+API Design • System Architecture • Performance Optimization
 
 ---
 
