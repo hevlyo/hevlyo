@@ -19,9 +19,10 @@ Transformo processos manuais em sistemas que funcionam sozinhos: de APIs e arqui
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [ShellShield](https://github.com/hevlyo/ShellShield) | Segurança de terminal em tempo real para a era do AI coding: bloqueia comandos destrutivos, ataques de homógrafos e pipes perigosos | TypeScript |
+| [ibx](https://github.com/hevlyo/ibx) | Skill de agente + helper bash para usar sandboxes descartáveis do instabox.sh com segurança (reservas, idle-pause, exec seguro, proteção de credenciais) | Shell / Bash |
 | [Copiloto Acadêmico ECT/UFRN](https://github.com/hevlyo/copiloto-academico-ect-ufrn) | Planejamento acadêmico, elegibilidade e cenários de grade; parser de histórico em PDF | NestJS · React · Prisma · Postgres |
 | [AM Dashboard](https://github.com/hevlyo/am-dashboard) | Painel administrativo full-stack para a A Mentoria ENEM | React · NestJS · Prisma · PostgreSQL |
-| [Pega Bola 3000](https://github.com/hevlyo/project) | Jogo multiplayer em tempo real, monorepo | TypeScript |
+| [Pega Bola 3000](https://github.com/hevlyo/pega-bola-3000) | Jogo multiplayer em tempo real, monorepo | TypeScript |
 | [DistilBERT](https://github.com/hevlyo/DistilBERT) | Experimentos de NLP com DistilBERT | Python |
 
 ### 🛠️ Stack
